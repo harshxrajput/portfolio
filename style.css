@@ -365,9 +365,9 @@ article .icon {
 }
 
 .project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  border-radius: 3rem;
+  width: 70%;
+  height: 70%;
 }
 
 .project-title {
@@ -385,6 +385,7 @@ article .icon {
 #certifications {
   position: relative;
   text-align: center;
+  margin: 60px;
 }
 
 /* Display in a single row */
@@ -415,6 +416,8 @@ article .icon {
 .certification-title {
   margin: 1rem 0;
   color: black;
+  font-weight: 600;
+  font-size: medium;
 }
 
 
